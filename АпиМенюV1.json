@@ -1,0 +1,643 @@
+[
+  {
+"id" : 1,
+"categoryName" : "Пиццы",
+"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaCategory.png",
+"items":[
+  {
+  "id" : 10,
+  "name":"Пицца Маргарита",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B04.jpg",
+  "price" : "320",
+  "oldPrice" : "400",
+  "descirption" : "Пицца - Bтальянское национальное блюдо в виде круглой открытой лепешки, покрытой в классическом варианте томатами и расплавленным сыром.",
+  "rating" : null,
+  "categoryId" : 1
+   }, 
+   {
+   "id" : 11,
+  "name" : "Пицца Ассорти",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B03.png",
+  "price" : "450",
+  "oldPrice" : "500",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 1
+   },
+   {
+   "id" : 12,
+  "name" : "Пицца Мясная",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B03.png",
+  "price" : "380",
+  "oldPrice" : "400",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 1
+   },
+   {
+   "id" : 13,
+  "name" : "Пицца Экзотика",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B04.jpg",
+  "price" : "500",
+  "oldPrice" : "600",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 1
+   },{
+  "id" : 14,
+  "name" : "Пицца Сладкая",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B04.jpg",
+  "price" : "390",
+  "oldPrice" : "450",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 1
+   },{
+  "id" : 15,
+  "name" : "Пицца Цезарь",
+  "image": "https://c7.hotpng.com/preview/375/121/100/pizza.jpg",
+  "price" : "400",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 1
+   },{
+  "id" : 16,
+  "name" : "Пицца Мексика",
+  "image": "https://c7.hotpng.com/preview/375/121/100/pizza.jpg",
+  "price" : "320",
+  "oldPrice" : "400",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 1
+   },{
+  "id" : 17,
+  "name" : "Пицца Куриная с грибами",
+  "image": "https://c7.hotpng.com/preview/375/121/100/pizza.jpg",
+  "price" : "320",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 1
+   }
+]
+},{
+  "id" : 2,
+"categoryName" : "Супы",
+"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/%D0%93%D0%BE%D1%80%D1%8F%D0%B8%D0%B5%20%D0%91%D0%BB%D1%8E%D0%B4%D0%B0.jpg",
+"items":[
+  {
+  "id" : 18,
+  "name":"Суп Лагман",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B51.jpg",
+  "price" : "120",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 2
+   }, {
+   "id" : 19,
+  "name" : "Суп Чечевичный",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B53.jpg",
+  "price" : "200",
+  "oldPrice" : "500",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 2
+   },
+   {
+   "id" : 20,
+  "name" : "Борщ",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B51.jpg",
+  "price" : "250",
+  "oldPrice" : "400",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 2
+   },{
+  "id" : 22,
+  "name" : "Суп Куриный",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/%D0%93%D0%BE%D1%80%D1%8F%D0%B8%D0%B5%20%D0%91%D0%BB%D1%8E%D0%B4%D0%B0.jpg",
+  "price" : "270",
+  "oldPrice" : "450",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 2
+   },{
+  "id" : 23,
+  "name" : "Суп Гороховый",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/%D0%93%D0%BE%D1%80%D1%8F%D0%B8%D0%B5%20%D0%91%D0%BB%D1%8E%D0%B4%D0%B0.jpg",
+  "price" : "190",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 2
+   },{
+  "id" : 25,
+  "name" : "Крем-суп сырный",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/%D0%93%D0%BE%D1%80%D1%8F%D0%B8%D0%B5%20%D0%91%D0%BB%D1%8E%D0%B4%D0%B0.jpg",
+  "price" : "220",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 2
+   }
+]
+},{
+"id" : 3,
+"categoryName" : "Салаты",
+"categoryIcon": "",
+"items":[
+  {
+  "id" : 26,
+  "name":"Салат Цезарь",
+  "image": "",
+  "price" : "270",
+  "oldPrice" : "300",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 3
+   }, {
+   "id" : 27,
+  "name" : "Салат Греческий",
+  "image": "",
+  "price" : "200",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 3
+   },
+   {
+   "id" : 28,
+  "name" : "Салат Оливье",
+  "image": "",
+  "price" : "180",
+  "oldPrice" : "230",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 3
+   },
+   {
+   "id" : 29,
+  "name" : "Салат Крабовый",
+  "image": "",
+  "price" : "150",
+  "oldPrice" : "200",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 3
+   },{
+  "id" : 30,
+  "name" : "Салат Неженка",
+  "image": "",
+  "price" : "160",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 3
+   },{
+  "id" : 31,
+  "name" : "Салат Самали",
+  "image": "",
+  "price" : "200",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 3
+   },{
+  "id" : 32,
+  "name" : "Салат Восточный",
+  "image": "",
+  "price" : "220",
+  "oldPrice" : "350",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 3
+   },{
+  "id" : 33,
+  "name" : "Салат Мексиканский",
+  "image": "",
+  "price" : "320",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 3
+   },{
+  "id" : 33,
+  "name" : "Салат Каспийский",
+  "image": "",
+  "price" : "250",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 3
+   },{
+  "id" : 33,
+  "name" : "Салат Марго",
+  "image": "",
+  "price" : "250",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 3
+   },{
+  "id" : 33,
+  "name" : "Салат Хрустящий",
+  "image": "",
+  "price" : "270",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 3
+   }
+]
+},{
+"id" : 4,
+"categoryName" : "Мясные блюда",
+"categoryIcon": "",
+"items":[
+  {
+  "id" : 34,
+  "name":"Стейк Миньон",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B55.jpg",
+  "price" : "600",
+  "oldPrice" : "800",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 4
+   }, {
+   "id" : 35,
+  "name" : "Стейк Тибон",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B54.jpg",
+  "price" : "700",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 4
+   },
+   {
+   "id" : 36,
+  "name" : "Стейк Рибай",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B51.jpg",
+  "price" : "710",
+  "oldPrice" : "900",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 4
+   },
+   {
+   "id" : 37,
+  "name" : "Стейк Тамагавк",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B54.jpg",
+  "price" : "800",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 4
+   },{
+  "id" : 38,
+  "name" : "Филе куриное",
+  "image": "",
+  "price" : "450",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 4
+   },{
+  "id" : 39,
+  "name" : "Люля бараньи",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B51.jpg",
+  "price" : "300",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 4
+   },{
+  "id" : 40,
+  "name" : "Люля куриные",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B54.jpg",
+  "price" : "320",
+  "oldPrice" : "400",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 4
+   },{
+  "id" : 41,
+  "name" : "Люля говяжьи",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B51.jpg",
+  "price" : "280",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 4
+   }
+]
+},
+{
+"id" : 132123,
+"categoryName" : "Суши",
+"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenCategory.jpg",
+"items":[
+  {
+  "id" : 123131314241,
+  "name":"Рол Цезарь",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D0%A1%D1%83%D1%88%D0%B81.jpg",
+  "price" : "150",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 98765431
+   }, {
+   "id" : 987654345678987654,
+  "name" : "Рол Калифорния",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D0%A1%D1%83%D1%88%D0%B82.jpg",
+  "price" : "200",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 76548765345353243545
+   },
+   {
+   "id" : 8250495285,
+  "name" : "Ролл «Темпура»",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D0%A1%D1%83%D1%88%D0%B84.jpg",
+  "price" : "200",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 2359234785
+   },{
+  "id" : 412345678900987654,
+  "name" : "Тигровый ролл",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D1%81%D1%83%D1%88%D0%B83.png",
+  "price" : "210",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 45654356
+   },{
+  "id" : 98234265435,
+  "name" : "Ролл “Динамит”",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D0%A1%D1%83%D1%88%D0%B81.jpg",
+  "price" : "200",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 8988
+   },{
+  "id" : 653,
+  "name" : "Ролл Дракон",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D0%A1%D1%83%D1%88%D0%B82.jpg",
+  "price" : "240",
+  "oldPrice" : "280",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 534563463456
+   },{
+  "id" : 100200300400,
+  "name" : "Ролл темпура с креветками",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D0%A1%D1%83%D1%88%D0%B82.jpg",
+  "price" : "220",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 500600700
+   },{
+  "id" : 250030040,
+  "name" : "Ролл “Вулкан”",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D1%81%D1%83%D1%88%D0%B83.png",
+  "price" : "220",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 990099009900990099009900
+   }
+]
+},
+{
+"id" : 5,
+"categoryName" : "Чай",
+"categoryIcon": "",
+"items":[
+  {
+  "id" : 42,
+  "name":"Чай Мараканский",
+  "image": "",
+  "price" : "150",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 5
+   }, {
+   "id" : 43,
+  "name" : "Чай Имбирный",
+  "image": "",
+  "price" : "200",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 5
+   },
+   {
+   "id" : 44,
+  "name" : "Чай с бергомотом",
+  "image": "",
+  "price" : "200",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 5
+   },
+   {
+   "id" : 45,
+  "name" : "Чай с чабрецом",
+  "image": "",
+  "price" : "160",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 5
+   },{
+  "id" : 46,
+  "name" : "Чай облепиховый",
+  "image": "",
+  "price" : "210",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 5
+   },{
+  "id" : 47,
+  "name" : "Наглый фрукт",
+  "image": "",
+  "price" : "200",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 5
+   },{
+  "id" : 48,
+  "name" : "Черный пуэр",
+  "image": "",
+  "price" : "240",
+  "oldPrice" : "280",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 5
+   },{
+  "id" : 49,
+  "name" : "Ягодный чай",
+  "image": "",
+  "price" : "220",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 5
+   },{
+  "id" : 49,
+  "name" : "Молочный лун",
+  "image": "",
+  "price" : "220",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 5
+   }
+]
+},{
+"id" : 6,
+"categoryName" : "Кофе",
+"categoryIcon": "",
+"items":[
+  {
+  "id" : 50,
+  "name":"Эспрессо",
+  "image": "",
+  "price" : "150",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 6
+   }, {
+   "id" : 51,
+  "name" : "Американо",
+  "image": "",
+  "price" : "150",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 6
+   },
+   {
+   "id" : 52,
+  "name" : "Капучино",
+  "image": "",
+  "price" : "200",
+  "oldPrice" : "250",
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 6
+   },
+   {
+   "id" : 53,
+  "name" : "Латте",
+  "image": "",
+  "price" : "220",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 6
+   },{
+  "id" : 54,
+  "name" : "Флэт Уайт",
+  "image": "",
+  "price" : "250",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 6
+   },{
+  "id" : 55,
+  "name" : "Латте с карамельным сиропом",
+  "image": "",
+  "price" : "300",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 6
+   },{
+  "id" : 15,
+  "name" : "Латте на кокосовом молоке",
+  "image": "",
+  "price" : "320",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 6
+   },{
+  "id" : 56,
+  "name" : "Капучино на кокосовом молоке",
+  "image": "",
+  "price" : "300",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 6
+   }
+]
+},{
+"id" : 7,
+"categoryName" : "Коктейли",
+"categoryIcon": "",
+"items":[
+  {
+  "id" : 57,
+  "name":"Молочный",
+  "image": "",
+  "price" : "200",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 7
+   }, {
+   "id" : 58,
+  "name" : "Шоколадный",
+  "image": "",
+  "price" : "220",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 7
+   },
+   {
+   "id" : 59,
+  "name" : "Банановый",
+  "image": "",
+  "price" : "220",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 7
+   },
+   {
+   "id" : 60,
+  "name" : "Клубничный",
+  "image": "",
+  "price" : "220",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 7
+   },{
+  "id" : 61,
+  "name" : "Клубника-Малина",
+  "image": "",
+  "price" : "220",
+  "oldPrice" : null,
+  "descirption" : "",
+  "rating" : null,
+  "categoryId" : 7
+   }
+]
+}
+]
