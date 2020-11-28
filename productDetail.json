@@ -3,9 +3,10 @@
   "id": 1,
   "name": "Паста",
   "description": "спагетти, фарш, лук, морковь, сельдерей, помидоры, чеснок, вино красное сухое, масло растительное, соль",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/Group%2034.png",
+  "image": ["https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/Group%2034.png", "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/Group%2034.png", "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/Group%2034.png"],
   "price": 500,
-  "infoPlast": [
+  "oldPrice" : 1000,
+  "productInfo": [
     {
       "id": 1,
       "name": "Белки",
