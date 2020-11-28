@@ -1,0 +1,56 @@
+
+{
+  "id": 1,
+  "name": "Паста",
+  "description": "спагетти, фарш, лук, морковь, сельдерей, помидоры, чеснок, вино красное сухое, масло растительное, соль",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/Group%2034.png",
+  "price": 500,
+  "infoPlast": [
+    {
+      "id": 1,
+      "name": "Белки",
+      "value": 43
+    },
+    {
+      "id": 2,
+      "name": "Жиры",
+      "value": 10
+    },
+    {
+      "id": 3,
+      "name": "Углеводы",
+      "value": 71
+    },
+    {
+      "id": 4,
+      "name": "ККал",
+      "value": 200
+    },
+    {
+      "id": 5,
+      "name": "Граммы",
+      "value": 1000
+    }
+  ],
+  "additionalItem": [
+      {
+        "id": 6,
+        "name": "Коктейль",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/AdditionalProduct/141b03eb06cb92715ce92747a3de0f8c.png",
+        "price": 100
+      },
+      {
+        "id": 7,
+        "name": "Кола",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/AdditionalProduct/Frame%209.png",
+        "price": 150
+      },
+      {
+        "id": 8,
+        "name": "Стейк",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/AdditionalProduct/kisspng_beefsteak_teppanyaki_taobao_frying_pan_australia_reunion.png",
+        "price": 450
+      }
+    ]
+}
+  
