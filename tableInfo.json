@@ -1,7 +1,7 @@
 [
   {
     "tableId": 1,
-    "tableImages": ["https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table10.jpg", "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table10.jpg", "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table10.jpg"],
+    "tableImages": ["https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table11.png", "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table11.png", "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table11.png"],
     "tableNumber": 1,
     "personsCount": 8,
     "veranda": null,
