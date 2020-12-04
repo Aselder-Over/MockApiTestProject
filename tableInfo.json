@@ -1,17 +1,9 @@
 [
   {
     "tableId": 1,
-    "tableImages": [
-      {
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table10.jpg"
-      },
-      { 
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table10.jpg"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table10.jpg"
-      }
-      ],
+    "tableImages": [ "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table10.jpg", 
+                    "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table10.jpg", 
+                    "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table10.jpg"],
     "tableNumber": 1,
     "personsCount": 8,
     "veranda": null,
@@ -20,17 +12,9 @@
   },
   {
     "tableId": 2,
-    "tableImages": [
-      {
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table5.jpg"
-      },
-      { 
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table5.jpg"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table5.jpg"
-      }
-      ],
+    "tableImages": [ "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table5.jpg",
+                    "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table5.jpg",
+                    "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table5.jpg"],
     "tableNumber": 2,
     "personsCount": 4,
     "veranda": null,
@@ -39,17 +23,9 @@
   },
   {
     "tableId": 3,
-    "tableImages": [
-      {
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table8.jpg"
-      },
-      { 
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table8.jpg"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table8.jpg"
-      }
-      ],
+    "tableImages": [ "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table8.jpg",
+                    "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table8.jpg",
+                    "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table8.jpg"],
     "tableNumber": 3,
     "personsCount": 6,
     "veranda": null,
@@ -58,17 +34,9 @@
   },
     {
     "tableId": 4,
-    "tableImages": [
-      {
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table9.jpg"
-      },
-      { 
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table9.jpg"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table9.jpg"
-      }
-      ],
+    "tableImages": [ "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table9.jpg",
+                    "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table9.jpg",
+                    "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table9.jpg"],
     "tableNumber": 4,
     "personsCount": 6,
     "veranda": null,
@@ -77,17 +45,9 @@
   },
   {
     "tableId": 5,
-    "tableImages": [
-      {
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table11.png"
-      },
-      { 
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table11.png"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table11.png"
-      }
-      ],
+    "tableImages": [ "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table11.png",
+                    "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table11.png",
+                    "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/TableInfo/TablesImages/table11.png"],
     "tableNumber": 5,
     "personsCount": 2,
     "veranda": null,
