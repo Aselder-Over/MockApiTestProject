@@ -1,0 +1,69 @@
+[ 
+  {
+    "orderedProduct": [
+    {
+      "id" : 10,
+      "name":"Пицца Маргарита",
+      "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B04.jpg",
+      "price" : "320",
+      "oldPrice" : "400",
+      "descirption" : "Пицца - Bтальянское национальное блюдо в виде круглой открытой лепешки, покрытой в классическом варианте томатами и расплавленным сыром.",
+      "rating" : null,
+      "categoryId" : 1
+    }, 
+    {
+     "id" : 11,
+     "name" : "Пицца Ассорти",
+     "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B03.png",
+      "price" : "450",
+      "oldPrice" : "500",
+      "descirption" : "",
+      "rating" : null,
+      "categoryId" : 1
+    }
+    ]
+  },
+  {
+   "recomendProduct": [
+     {
+       "id": 6,
+       "name": "Коктейль",
+       "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/AdditionalProduct/141b03eb06cb92715ce92747a3de0f8c.png",
+       "price": 100,
+       "oldPrice": 200,
+       "rating": null
+      },
+     {
+       "id": 7,
+       "name": "Кола",
+       "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/AdditionalProduct/Frame%209.png",
+       "price": 150,
+       "oldPrice": 200,
+       "rating": null
+     },
+     {
+       "id": 8,
+       "name": "Стейк",
+       "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/AdditionalProduct/kisspng_beefsteak_teppanyaki_taobao_frying_pan_australia_reunion.png",
+       "price": 450,
+       "oldPrice": 200,
+       "rating": null
+      }
+    ]
+  },
+  {
+    "paymentsWay": [
+      {
+        "paymentId": 1,
+        "paymentImage": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/PaymentsImage/PaymentOfflineCash.png",
+        "paymentName": "Оплата наличными"
+      },
+      {
+        "paymentId": 2,
+        "paymentImage": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/PaymentsImage/paymentOnlineCash.png",
+        "paymentName": "Оплата картой"
+      }
+      
+      ]
+  }
+]
