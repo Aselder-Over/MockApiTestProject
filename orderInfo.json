@@ -8,35 +8,35 @@
       {
         "id" : 10,
         "name":"Пицца Маргарита",
-        "price" : "550",
+        "price" : 550,
         "productCount": 2,
         "categoryId" : 1
       },
       {
         "id" : 11,
         "name":"Стейк Тибон",
-        "price" : "670",
+        "price" : 670,
         "productCount": 5,
         "categoryId" : 1
       },
       {
         "id" : 12,
         "name":"Суп Грибной",
-        "price" : "420",
+        "price" : 420,
         "productCount": 2,
         "categoryId" : 1
       },
       {
         "id" : 13,
         "name":"Салат Цезарь",
-        "price" : "320",
+        "price" : 320,
         "productCount": 4,
         "categoryId" : 1
       },
       {
         "id" : 14,
         "name":"Чай Нахальный фрукт",
-        "price" : "220",
+        "price" : 220,
         "productCount": 1,
         "categoryId" : 1
       }
@@ -49,6 +49,6 @@
   },
   {
     "orderId": 1,
-    "orderPrice": "6790"
+    "orderPrice": 6790
   }
 ]
