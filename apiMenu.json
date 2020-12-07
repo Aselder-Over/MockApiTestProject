@@ -7,7 +7,7 @@
   {
   "id" : 10,
   "name":"Пицца Маргарита",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B04.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/Pizza.png",
   "price" : 320,
   "oldPrice" : 400,
   "descirption" : "Пицца - Bтальянское национальное блюдо в виде круглой открытой лепешки, покрытой в классическом варианте томатами и расплавленным сыром.",
@@ -17,7 +17,7 @@
    {
    "id" : 11,
   "name" : "Пицца Ассорти",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B03.png",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/Pizza.png",
   "price" : 450,
   "oldPrice" : 500,
   "descirption" : "",
@@ -27,7 +27,7 @@
    {
    "id" : 12,
   "name" : "Пицца Мясная",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B03.png",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/Pizza.png",
   "price" : 380,
   "oldPrice" : 400,
   "descirption" : "",
@@ -37,7 +37,7 @@
    {
    "id" : 13,
   "name" : "Пицца Экзотика",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B04.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/Pizza.png",
   "price" : 500,
   "oldPrice" : 600,
   "descirption" : "",
@@ -46,7 +46,7 @@
    },{
   "id" : 14,
   "name" : "Пицца Сладкая",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B04.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/Pizza.png",
   "price" : 390,
   "oldPrice" : 450,
   "descirption" : "",
@@ -55,7 +55,7 @@
    },{
   "id" : 15,
   "name" : "Пицца Цезарь",
-  "image": "https://c7.hotpng.com/preview/375/121/100/pizza.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/Pizza.png",
   "price" : 400,
   "oldPrice" : null,
   "descirption" : "",
@@ -64,7 +64,7 @@
    },{
   "id" : 16,
   "name" : "Пицца Мексика",
-  "image": "https://c7.hotpng.com/preview/375/121/100/pizza.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/Pizza.png",
   "price" : 320,
   "oldPrice" : 400,
   "descirption" : "",
@@ -73,7 +73,7 @@
    },{
   "id" : 17,
   "name" : "Пицца Куриная с грибами",
-  "image": "https://c7.hotpng.com/preview/375/121/100/pizza.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/Pizza.png",
   "price" : 320,
   "oldPrice" : null,
   "descirption" : "",
@@ -84,12 +84,12 @@
 },{
   "id" : 2,
 "categoryName" : "Супы",
-"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/soup.png",
+"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/Pizza.png",
 "items":[
   {
   "id" : 18,
   "name":"Суп Лагман",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B51.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/soup.png",
   "price" : 120,
   "oldPrice" : null,
   "descirption" : "",
@@ -98,7 +98,7 @@
    }, {
    "id" : 19,
   "name" : "Суп Чечевичный",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B53.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/soup.png",
   "price" : 200,
   "oldPrice" : 500,
   "descirption" : "",
@@ -108,7 +108,7 @@
    {
    "id" : 20,
   "name" : "Борщ",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B51.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/soup.png",
   "price" : 250,
   "oldPrice" : 400,
   "descirption" : "",
@@ -117,7 +117,7 @@
    },{
   "id" : 22,
   "name" : "Суп Куриный",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/%D0%93%D0%BE%D1%80%D1%8F%D0%B8%D0%B5%20%D0%91%D0%BB%D1%8E%D0%B4%D0%B0.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/soup.png",
   "price" : 270,
   "oldPrice" : 450,
   "descirption" : "",
@@ -126,7 +126,7 @@
    },{
   "id" : 23,
   "name" : "Суп Гороховый",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/%D0%93%D0%BE%D1%80%D1%8F%D0%B8%D0%B5%20%D0%91%D0%BB%D1%8E%D0%B4%D0%B0.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/soup.png",
   "price" : 190,
   "oldPrice" : null,
   "descirption" : "",
@@ -135,7 +135,7 @@
    },{
   "id" : 25,
   "name" : "Крем-суп сырный",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/%D0%93%D0%BE%D1%80%D1%8F%D0%B8%D0%B5%20%D0%91%D0%BB%D1%8E%D0%B4%D0%B0.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/soup.png",
   "price" : 220,
   "oldPrice" : null,
   "descirption" : "",
@@ -151,7 +151,7 @@
   {
   "id" : 26,
   "name":"Салат Цезарь",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/salad.png",
   "price" : 270,
   "oldPrice" : 300,
   "descirption" : "",
@@ -160,7 +160,7 @@
    }, {
    "id" : 27,
   "name" : "Салат Греческий",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/salad.png",
   "price" : 200,
   "oldPrice" : null,
   "descirption" : "",
@@ -170,7 +170,7 @@
    {
    "id" : 28,
   "name" : "Салат Оливье",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/salad.png",
   "price" : 180,
   "oldPrice" : 230,
   "descirption" : "",
@@ -180,7 +180,7 @@
    {
    "id" : 29,
   "name" : "Салат Крабовый",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/salad.png",
   "price" : 150,
   "oldPrice" : 200,
   "descirption" : "",
@@ -189,7 +189,7 @@
    },{
   "id" : 30,
   "name" : "Салат Неженка",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/salad.png",
   "price" : 160,
   "oldPrice" : null,
   "descirption" : "",
@@ -198,7 +198,7 @@
    },{
   "id" : 31,
   "name" : "Салат Самали",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/salad.png",
   "price" : 200,
   "oldPrice" : null,
   "descirption" : "",
@@ -207,7 +207,7 @@
    },{
   "id" : 32,
   "name" : "Салат Восточный",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/salad.png",
   "price" : 220,
   "oldPrice" : 350,
   "descirption" : "",
@@ -216,7 +216,7 @@
    },{
   "id" : 33,
   "name" : "Салат Мексиканский",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/salad.png",
   "price" : 320,
   "oldPrice" : null,
   "descirption" : "",
@@ -225,7 +225,7 @@
    },{
   "id" : 33,
   "name" : "Салат Каспийский",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/salad.png",
   "price" : 250,
   "oldPrice" : null,
   "descirption" : "",
@@ -234,7 +234,7 @@
    },{
   "id" : 33,
   "name" : "Салат Марго",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/salad.png",
   "price" : 250,
   "oldPrice" : null,
   "descirption" : "",
@@ -243,7 +243,7 @@
    },{
   "id" : 33,
   "name" : "Салат Хрустящий",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/salad.png",
   "price" : 270,
   "oldPrice" : null,
   "descirption" : "",
@@ -259,7 +259,7 @@
   {
   "id" : 34,
   "name":"Стейк Миньон",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B55.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/steak.png",
   "price" : 600,
   "oldPrice" : 800,
   "descirption" : "",
@@ -268,7 +268,7 @@
    }, {
    "id" : 35,
   "name" : "Стейк Тибон",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B54.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/steak.png",
   "price" : 700,
   "oldPrice" : null,
   "descirption" : "",
@@ -278,7 +278,7 @@
    {
    "id" : 36,
   "name" : "Стейк Рибай",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B51.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/steak.png",
   "price" : 710,
   "oldPrice" : 900,
   "descirption" : "",
@@ -288,7 +288,7 @@
    {
    "id" : 37,
   "name" : "Стейк Тамагавк",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B54.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/steak.png",
   "price" : 800,
   "oldPrice" : null,
   "descirption" : "",
@@ -306,7 +306,7 @@
    },{
   "id" : 39,
   "name" : "Люля бараньи",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B51.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/steak.png",
   "price" : 300,
   "oldPrice" : null,
   "descirption" : "",
@@ -315,7 +315,7 @@
    },{
   "id" : 40,
   "name" : "Люля куриные",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B54.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/steak.png",
   "price" : 320,
   "oldPrice" : 400,
   "descirption" : "",
@@ -324,7 +324,7 @@
    },{
   "id" : 41,
   "name" : "Люля говяжьи",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/HotDishCategory/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B51.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/steak.png",
   "price" : 280,
   "oldPrice" : null,
   "descirption" : "",
@@ -341,7 +341,7 @@
   {
   "id" : 51,
   "name":"Рол Цезарь",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D0%A1%D1%83%D1%88%D0%B81.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/sihiRoly.png",
   "price" : 150,
   "oldPrice" : null,
   "descirption" : "",
@@ -350,7 +350,7 @@
    }, {
    "id" : 52,
   "name" : "Рол Калифорния",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D0%A1%D1%83%D1%88%D0%B82.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/sihiRoly.png",
   "price" : 200,
   "oldPrice" : null,
   "descirption" : "",
@@ -360,7 +360,7 @@
    {
    "id" : 53,
   "name" : "Ролл «Темпура»",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D0%A1%D1%83%D1%88%D0%B84.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/sihiRoly.png",
   "price" : 200,
   "oldPrice" : null,
   "descirption" : "",
@@ -369,7 +369,7 @@
    },{
   "id" : 54,
   "name" : "Тигровый ролл",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D1%81%D1%83%D1%88%D0%B83.png",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/sihiRoly.png",
   "price" : 210,
   "oldPrice" : null,
   "descirption" : "",
@@ -378,7 +378,7 @@
    },{
   "id" : 55,
   "name" : "Ролл “Динамит”",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D0%A1%D1%83%D1%88%D0%B81.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/sihiRoly.png",
   "price" : 200,
   "oldPrice" : null,
   "descirption" : "",
@@ -387,7 +387,7 @@
    },{
   "id" : 56,
   "name" : "Ролл Дракон",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D0%A1%D1%83%D1%88%D0%B82.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/sihiRoly.png",
   "price" : 240,
   "oldPrice" : 280,
   "descirption" : "",
@@ -396,7 +396,7 @@
    },{
   "id" : 57,
   "name" : "Ролл темпура с креветками",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D0%A1%D1%83%D1%88%D0%B82.jpg",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/sihiRoly.png",
   "price" : 220,
   "oldPrice" : null,
   "descirption" : "",
@@ -405,7 +405,7 @@
    },{
   "id" : 58,
   "name" : "Ролл “Вулкан”",
-  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenDish/%D1%81%D1%83%D1%88%D0%B83.png",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/sihiRoly.png",
   "price" : 220,
   "oldPrice" : null,
   "descirption" : "",
@@ -422,7 +422,7 @@
   {
   "id" : 50,
   "name":"Эспрессо",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/coffe.png",
   "price" : 150,
   "oldPrice" : null,
   "descirption" : "",
@@ -431,7 +431,7 @@
    }, {
    "id" : 51,
   "name" : "Американо",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/coffe.png",
   "price" : 150,
   "oldPrice" : null,
   "descirption" : "",
@@ -441,7 +441,7 @@
    {
    "id" : 52,
   "name" : "Капучино",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/coffe.png",
   "price" : 200,
   "oldPrice" : 250,
   "descirption" : "",
@@ -451,7 +451,7 @@
    {
    "id" : 53,
   "name" : "Латте",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/coffe.png",
   "price" : 220,
   "oldPrice" : null,
   "descirption" : "",
@@ -460,7 +460,7 @@
    },{
   "id" : 54,
   "name" : "Флэт Уайт",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/coffe.png",
   "price" : 250,
   "oldPrice" : null,
   "descirption" : "",
@@ -469,7 +469,7 @@
    },{
   "id" : 55,
   "name" : "Латте с карамельным сиропом",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/coffe.png",
   "price" : 300,
   "oldPrice" : null,
   "descirption" : "",
@@ -478,7 +478,7 @@
    },{
   "id" : 15,
   "name" : "Латте на кокосовом молоке",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/coffe.png",
   "price" : 320,
   "oldPrice" : null,
   "descirption" : "",
@@ -487,7 +487,7 @@
    },{
   "id" : 56,
   "name" : "Капучино на кокосовом молоке",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/coffe.png",
   "price" : 300,
   "oldPrice" : null,
   "descirption" : "",
@@ -503,7 +503,7 @@
   {
   "id" : 57,
   "name":"Молочный",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/cocktail.png",
   "price" : 200,
   "oldPrice" : null,
   "descirption" : "",
@@ -512,7 +512,7 @@
    }, {
    "id" : 58,
   "name" : "Шоколадный",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/cocktail.png",
   "price" : 220,
   "oldPrice" : null,
   "descirption" : "",
@@ -522,7 +522,7 @@
    {
    "id" : 59,
   "name" : "Банановый",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/cocktail.png",
   "price" : 220,
   "oldPrice" : null,
   "descirption" : "",
@@ -532,7 +532,7 @@
    {
    "id" : 60,
   "name" : "Клубничный",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/cocktail.png",
   "price" : 220,
   "oldPrice" : null,
   "descirption" : "",
@@ -541,7 +541,7 @@
    },{
   "id" : 61,
   "name" : "Клубника-Малина",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/cocktail.png",
   "price" : 220,
   "oldPrice" : null,
   "descirption" : "",
