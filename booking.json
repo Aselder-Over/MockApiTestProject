@@ -1,0 +1,14 @@
+[{
+    "tableId": 1,
+    "tableNumber": 1,
+    "personsCount": 2,
+    "data": "20 авг. 19:00",
+    "preOrder": 450
+  },
+  {
+    "tableId": 2,
+    "tableNumber": 2,
+    "personsCount": 4,
+    "data": "21 авг. 19:00",
+    "preOrder": null
+  }]
