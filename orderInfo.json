@@ -8,6 +8,7 @@
       {
         "id" : 10,
         "name":"Пицца Маргарита",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/Pizza.png",
         "price" : 550,
         "productCount": 2,
         "categoryId" : 1
@@ -15,6 +16,7 @@
       {
         "id" : 11,
         "name":"Стейк Тибон",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/steak.png",
         "price" : 670,
         "productCount": 5,
         "categoryId" : 1
@@ -22,6 +24,7 @@
       {
         "id" : 12,
         "name":"Суп Грибной",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/soup.png",
         "price" : 420,
         "productCount": 2,
         "categoryId" : 1
@@ -29,6 +32,7 @@
       {
         "id" : 13,
         "name":"Салат Цезарь",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/salad.png",
         "price" : 320,
         "productCount": 4,
         "categoryId" : 1
@@ -36,6 +40,7 @@
       {
         "id" : 14,
         "name":"Чай Нахальный фрукт",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/cocktail.png",
         "price" : 220,
         "productCount": 1,
         "categoryId" : 1
@@ -49,6 +54,9 @@
   },
   {
     "orderId": 1,
-    "orderPrice": 6790
+    "productCount": 14,
+    "orderPrice": 6790,
+    "sale": 440,
+    "resultPrice": 6350
   }
 ]
