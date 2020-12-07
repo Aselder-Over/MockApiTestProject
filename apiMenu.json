@@ -2,7 +2,7 @@
   {
 "id" : 1,
 "categoryName" : "Пиццы",
-"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaCategory.png",
+"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/pizza.png",
 "items":[
   {
   "id" : 10,
@@ -84,7 +84,7 @@
 },{
   "id" : 2,
 "categoryName" : "Супы",
-"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/%D0%93%D0%BE%D1%80%D1%8F%D0%B8%D0%B5%20%D0%91%D0%BB%D1%8E%D0%B4%D0%B0.jpg",
+"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/soup.png",
 "items":[
   {
   "id" : 18,
@@ -146,7 +146,7 @@
 },{
 "id" : 3,
 "categoryName" : "Салаты",
-"categoryIcon": "",
+"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/salad.png",
 "items":[
   {
   "id" : 26,
@@ -254,7 +254,7 @@
 },{
 "id" : 4,
 "categoryName" : "Мясные блюда",
-"categoryIcon": "",
+"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/meet.png",
 "items":[
   {
   "id" : 34,
@@ -336,7 +336,7 @@
 {
 "id" : 5,
 "categoryName" : "Суши",
-"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/JapenCategory.jpg",
+"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/japan.png",
 "items":[
   {
   "id" : 51,
@@ -417,7 +417,7 @@
 {
 "id" : 6,
 "categoryName" : "Кофе",
-"categoryIcon": "",
+"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/coffe.png",
 "items":[
   {
   "id" : 50,
@@ -498,7 +498,7 @@
 },{
 "id" : 7,
 "categoryName" : "Коктейли",
-"categoryIcon": "",
+"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/cocktail.png",
 "items":[
   {
   "id" : 57,
