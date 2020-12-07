@@ -84,7 +84,7 @@
 },{
   "id" : 2,
 "categoryName" : "Супы",
-"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/Pizza.png",
+"categoryIcon": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/soup.png",
 "items":[
   {
   "id" : 18,
@@ -297,7 +297,7 @@
    },{
   "id" : 38,
   "name" : "Филе куриное",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/steak.png",
   "price" : 450,
   "oldPrice" : null,
   "descirption" : "",
