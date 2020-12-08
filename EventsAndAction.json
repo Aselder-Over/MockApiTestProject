@@ -1,0 +1,36 @@
+[{
+  "events": [{
+    "eventId": 1,
+    "eventImage": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/event.png"
+  },
+  {
+    "eventId": 2,
+    "eventImage": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/event.png" 
+  },
+  {
+    "eventId": 3,
+    "eventImage": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/event.png"
+  },
+  {
+    "eventId": 4,
+    "eventImage": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/event.png"
+  }],
+  "eventsProduct": [{
+  "id" : 10,
+  "name":"Пицца Маргарита",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/Pizza.png",
+  "price" : 320,
+  "oldPrice" : 400,
+  "rating" : null,
+  "categoryId" : 1
+  },
+  {
+  "id" : 34,
+  "name":"Стейк Миньон",
+  "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/steak.png",
+  "price" : 600,
+  "oldPrice" : 800,
+  "rating" : null,
+  "categoryId" : 4
+  }]
+}]
