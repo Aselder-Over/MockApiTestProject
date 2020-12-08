@@ -1,0 +1,8 @@
+[{
+  "events": [{
+    "eventId": 1,
+    "eventImage": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/Images/event.png",
+    "eventName": "Новое меню",
+    "eventDescription": "Наш ресторан, не сбавляет обороты и предлагают гостям обновленные меню. Из самыех интересных предложений. Роскошная обстановка и лучшая кухня - вот что ждет наших гостей!"
+  }]
+}]
