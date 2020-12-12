@@ -4,7 +4,6 @@
     "paymentId": 1,
     "paymentImage": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/PaymentsImage/PaymentOfflineCash.png",
     "paymentName": "Оплата наличными",
-    "productCount": 14,
     "price": 6790,
     "sale": 440,
     "totalPrice": 6350,
