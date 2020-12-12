@@ -1,9 +1,14 @@
-[
-  {
+ {
     "tableId": 1,
-    "tableNumber": 1
-  },
-  {
+    "tableNumber": 1,
+    "paymentId": 1,
+    "paymentImage": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/PaymentsImage/PaymentOfflineCash.png",
+    "paymentName": "Оплата наличными",
+    "orderId": 1,
+    "productCount": 14,
+    "orderPrice": 6790,
+    "sale": 440,
+    "resultPrice": 6350,
     "productsOreder": [
       {
         "id" : 10,
@@ -46,17 +51,4 @@
         "categoryId" : 1
       }
     ]
-  },
-  {
-    "paymentId": 1,
-    "paymentImage": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/PaymentsImage/PaymentOfflineCash.png",
-    "paymentName": "Оплата наличными"
-  },
-  {
-    "orderId": 1,
-    "productCount": 14,
-    "orderPrice": 6790,
-    "sale": 440,
-    "resultPrice": 6350
   }
-]
