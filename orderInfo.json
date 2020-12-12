@@ -48,5 +48,31 @@
         "quantity": 1,
         "categoryId" : 1
       }
+    ],
+  "additionalProducts": [
+      {
+        "id": 6,
+        "name": "Коктейль",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/AdditionalProduct/141b03eb06cb92715ce92747a3de0f8c.png",
+        "price": 100,
+        "oldPrice": 200,
+        "rating": null
+      },
+      {
+        "id": 7,
+        "name": "Кола",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/AdditionalProduct/Frame%209.png",
+        "price": 150,
+        "oldPrice": 200,
+        "rating": null
+      },
+      {
+        "id": 8,
+        "name": "Стейк",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/AdditionalProduct/kisspng_beefsteak_teppanyaki_taobao_frying_pan_australia_reunion.png",
+        "price": 450,
+        "oldPrice": 200,
+        "rating": null
+      }
     ]
   }
