@@ -1,28 +1,27 @@
 {
     "orderedProduct": [
-    {
-      "id" : 10,
-      "name":"Пицца Маргарита",
-      "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B04.jpg",
-      "price" : 320,
-      "oldPrice" : 400,
-      "descirption" : "Пицца - Bтальянское национальное блюдо в виде круглой открытой лепешки, покрытой в классическом варианте томатами и расплавленным сыром.",
-      "rating" : null,
-      "categoryId" : 1
-    }, 
-    {
-     "id" : 11,
-     "name" : "Пицца Ассорти",
-     "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B03.png",
-      "price" : 450,
-      "oldPrice" : 500,
-      "descirption" : "",
-      "rating" : null,
-      "categoryId" : 1
-    }
-    ]
-  },
-  {
+      {
+        "id" : 10,
+        "name":"Пицца Маргарита",
+        "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B04.jpg",
+        "price" : 320,
+        "oldPrice" : 400,
+        "descirption" : "Пицца - Bтальянское национальное блюдо в виде круглой открытой лепешки, покрытой в классическом варианте томатами и расплавленным сыром.",
+        "rating" : null,
+        "categoryId" : 1
+      }, 
+      {
+       "id" : 11,
+       "name" : "Пицца Ассорти",
+       "image": "https://raw.githubusercontent.com/Aselder-Over/MockApiTestProject/main/ImageMenu/Category/PizzaMenuImage/%D0%BF%D0%B8%D1%86%D1%86%D0%B03.png",
+        "price" : 450,
+        "oldPrice" : 500,
+        "descirption" : "",
+        "rating" : null,
+        "categoryId" : 1
+      }
+    ],
+    
    "recomendProduct": [
      {
        "id": 6,
@@ -48,9 +47,8 @@
        "oldPrice": 200,
        "rating": null
       }
-    ]
-  },
-  {
+    ],
+    
     "paymentsWay": [
       {
         "paymentId": 1,
